@@ -57,13 +57,16 @@ nav{
     margin: 50px 28px 0px 14px;
 }
 .about_me{
-    width: 100%;
-    height: calc(100% - 60px);
-    background:url(../img/2boy.png) 50% 100%/auto 65% no-repeat , url(../img/fone.png) center/cover no-repeat;
-}
-.title__container h2{
-    padding-left: 897px;
+    font-size: 30px;
+    padding-left: 595px;
     line-height: 108px;
     font-weight: bold;
-    font-size: 60px;
+    width: 100%;
+    height: calc(100% - 60px);
+    background:url(../img/2boy.png) 48% 60%/auto 50% no-repeat , url(../img/fone.png) center/cover no-repeat;
+}
+.title__container input1{
+    height: 40px;
+    text-align: center;
+    border: 2px solid #6f707e;
 }
