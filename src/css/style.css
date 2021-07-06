@@ -57,16 +57,16 @@ nav{
     margin: 50px 28px 0px 14px;
 }
 .about_me{
-    font-size: 30px;
-    padding-left: 595px;
-    line-height: 108px;
-    font-weight: bold;
     width: 100%;
-    height: calc(100% - 60px);
-    background:url(../img/2boy.png) 48% 60%/auto 50% no-repeat , url(../img/fone.png) center/cover no-repeat;
+    height: calc(100% - 50px);
+    padding-left: 190px;
+    text-align: center;
+    background: url(../img/2boy.png) 50% 90%/auto 50% no-repeat;
+    
+   
 }
-.title__container input1{
+.title__container input{
     height: 40px;
     text-align: center;
-    border: 2px solid #6f707e;
+    border-radius: 5px;
 }
